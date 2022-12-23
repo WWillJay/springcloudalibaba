@@ -1,0 +1,3 @@
+com\willjay\springcloud\order\controller\OrderController.class
+com\willjay\springcloud\core\config\RestTemplateConfig.class
+com\willjay\springcloud\OrderApplication.class
